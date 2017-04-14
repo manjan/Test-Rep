@@ -1,4 +1,4 @@
 <?php
-echo $_SERVER['SERVER_ADDR'];
+echo "IP: ".$_SERVER['SERVER_ADDR'];
 phpinfo();
 ?>
